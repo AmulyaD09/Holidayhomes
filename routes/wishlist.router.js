@@ -1,6 +1,6 @@
 const express = require('express');
 
-const verifyUser = require("../middleware/verfiyuser");
+const verifyUser = require("../middleware/verifyuser");
 
 const wishlistController = require("../controllers/wishlistController");
 
